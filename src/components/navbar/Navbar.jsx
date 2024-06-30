@@ -1,9 +1,8 @@
 import React from 'react';
-import { FaBars, FaPhone } from 'react-icons/fa6';
+import { FaBars } from 'react-icons/fa6';
 import { LiaTimesSolid } from 'react-icons/lia';
 import { Link } from 'react-router-dom';
 import ThemeToggle from '../theme/ThemeToggle';
-// import ThemeSwitcher from '../theme/ThemeSwitcher';
 
 
 const Navbar = () => {
